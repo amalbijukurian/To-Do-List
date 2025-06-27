@@ -44,6 +44,8 @@ todo-list backend/        # Backend (Node.js + Express)
    ```
    The backend will run on `http://localhost:5000` by default.
 
+   NOTE: Add your own MongoDB key before you try to run the backend
+
 ### Frontend Setup
 1. Navigate to the frontend folder:
    ```sh
