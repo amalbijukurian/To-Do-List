@@ -11,7 +11,7 @@ const app = express();
 const PORT = 3000;
 
 const MONGODB_URL =
-  'mongodb+srv://amalbiju:alen@cluster0.qgpfjnz.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0';
+  '';
 
 mongoose
   .connect(MONGODB_URL)
